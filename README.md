@@ -8,4 +8,3 @@
 
 📝Te animo a escribirme por privado o al correo d.bayarri.b@gmail.com
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielBayarri&show_icons=true&theme=radical)
