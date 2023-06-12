@@ -6,5 +6,8 @@
 
 ✔Estoy emocionado por formar parte de un entorno de desarrollo donde pueda contribuir y crecer como profesional.
 
-📝Te animo a escribirme por privado o al correo d.bayarri.b@gmail.com
+📝Te animo a contactarme a traves de:
+
+* [d.bayarri.b@gmail.com](d.bayarri.b@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/danielbayarri/)
 
