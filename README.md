@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hola! 👋
 
-🖐Hola! Me llamo Daniel y soy un apasionado desarrollador con conocimientos en HTML, CSS, Javascript, Angular, PHP y Java.
+🖐 Me llamo Daniel y soy un apasionado desarrollador con conocimientos en HTML, CSS, Javascript, Angular, PHP y Java.
 
 🚀Me encanta enfrentar nuevos desafíos y aprender constantemente sobre las últimas tecnologías y tendencias en el desarrollo de software. 
 
